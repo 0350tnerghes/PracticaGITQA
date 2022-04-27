@@ -9,6 +9,7 @@ import org.junit.Test;
  */
 public class AppTest 
 {
+    System.out.println("Hola");
     /**
      * Rigorous Test :-)
      */
